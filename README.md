@@ -1,5 +1,5 @@
 # Melodee-App
-Android Studio Final Project for COMP8129 course
+## Android Studio Final Project for COMP8129 course
 
 Melodee App is an Android app that helps their users in purchasing music albums. In this application, the page consist of 5 pages and a bottom navigation panel with 4 buttons (Home Button that redirects to Home Page, Albums Button that redirects to the Albums Page, About Us Button that redirects to About Us Page, and the Log Out Button that will make user return to the Login Page).
 First is the Login Page which allows users to login into the application to make a purchase, the login page prompts the user to fill their username and alphanumeric password. 
@@ -9,7 +9,7 @@ Fourth page is the Album Detail Page that describes the detailed information abo
 Fifth page is the About Us page that consists of the greeting message, and also provides the store address information on the first tab, and the second tab shows the location of the store on the map.
 
 Made by : 
-2301852991 – Nicholas
-2301855091 – Andreas Chuandry
-2301857405 – Michelle Claudia Pricilla
-2301857645 – Vincent Bunawan
+###### 2301852991 – Nicholas
+###### 2301855091 – Andreas Chuandry
+###### 2301857405 – Michelle Claudia Pricilla
+###### 2301857645 – Vincent Bunawan
