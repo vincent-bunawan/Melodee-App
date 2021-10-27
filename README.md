@@ -8,7 +8,8 @@ Third page is the Albums Page that consist of the available albums for user to b
 Fourth page is the Album Detail Page that describes the detailed information about the album (album’s title, album’s cover, artist, album’s genre, and the album’s price), and below there is an option for user to buy the designated album from this page, and a back button on the top left of the screen that will bring back the user to their previous state.
 Fifth page is the About Us page that consists of the greeting message, and also provides the store address information on the first tab, and the second tab shows the location of the store on the map.
 
-<2301852991> – <Nicholas>
-<2301855091> – <Andreas Chuandry>
-<2301857405> – <Michelle Claudia Pricilla>
-<2301857645> – <Vincent Bunawan>
+Made by : 
+2301852991 – Nicholas
+2301855091 – Andreas Chuandry
+2301857405 – Michelle Claudia Pricilla
+2301857645 – Vincent Bunawan
