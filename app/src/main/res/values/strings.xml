@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectCOMP8129</string>
+    <string name="ini_judul_album">Ini Judul Album</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_nama_artist">Ini Nama Artist</string>
+    <string name="ini_genre">Ini Genre</string>
+    <string name="ini_jumlah_terjual">Ini Jumlah Terjual</string>
+    <string name="ini_harga_album">Ini Harga Album</string>
+</resources>
